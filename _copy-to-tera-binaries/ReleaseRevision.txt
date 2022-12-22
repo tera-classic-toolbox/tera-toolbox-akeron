@@ -1,0 +1,10 @@
+SrcRegVer: 292023
+ReleaseName: Live-29.04 RUS #40
+Version: Live-29.04 RUS #40
+ReleaseDate: 2015-07-20 오후 1:54:52
+ShareRevision: 292023
+ClientRevision: 292023
+ServerRevision: 290501
+ReleaseDataRevision: 183914
+WebAppRevision: 287167
+TeraReleaseName: Live-29.04 RUS #40

@@ -1,0 +1,4 @@
+node_modules/electron/*
+build_manifest.bat
+build_manifest.py
+build_data_json.js
