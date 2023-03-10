@@ -6,7 +6,10 @@ const path = require('path');
 const EventEmitter = require('events');
 
 // Constants
-const AutoUpdateServers = ['https://git.teramods.ml/tera-classic-toolbox/tera-toolbox/raw/'];
+const AutoUpdateServers = [
+    'https://raw.githubusercontent.com/tera-classic-toolbox/tera-toolbox-akeron/',
+    'https://git.teramods.ml/tera-classic-toolbox/tera-toolbox/raw/'
+];
 
 // Implementation
 function forcedirSync(dir) {
