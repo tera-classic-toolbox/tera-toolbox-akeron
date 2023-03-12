@@ -8,6 +8,7 @@ function PublisherFromLanguage(language) {
         case 'FRA':
         case 'GER':
         case 'RUS':
+        case 'USA':
             return 'GF';
         case 'KOR':
             return 'BH';
