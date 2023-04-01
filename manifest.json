@@ -1,7 +1,7 @@
 {
   "files": {
     "package.json": "2ba763b107cbae008305f261e1ec1aa6de5568551e8bc978f64d166300d41063",
-    "README.md": "7a82fefd9676a7721cb28e8a48e73a08b44e67b1350ed5c81b80f2e2fb5f1f98",
+    "README.md": "6618a89adf86d280ab3d1a22237b02b11ace2dec6b4b4580239cbc85246ae3f5",
     "TeraToolbox.exe": "01a98bb95954fb7581514468a95ce3c3bd08f3b06f182a567d44b738d1067307",
     "TeraToolboxCLI.exe": "af4dd88ce3913bb595dda072282cac98e65075d576c8e68f3a42270c56ef74eb",
     "TeraToolboxCLI_NoAdmin.exe": "e4e9306f858b1afb4a3a21dacdcb38dc0f33f8ae6dccaaf106f3860fcaca0ac7",
@@ -17,7 +17,7 @@
     "bin/mod-legacy-wrapper.js": "78edb9d842c64abf4d3ff42744132e0411f9c0f855740ca65ea265abb06faddc",
     "bin/mod-manager.js": "025c11a33186f6ff56f77b3bc700c7cdf4064c745b63aeae4d5dcbbb36efb95c",
     "bin/mod.js": "6d7047bb5d32caeeec615e57e562837d9529ce708aa9b0cb3740767144ab68d4",
-    "bin/proxy.js": "dbf0ba6aa96d595905d832c74591fa0788c81a59f39715ab4f7c87686c75d192",
+    "bin/proxy.js": "e8794c51d43db4e018a43be3f9782953662e6766448c68704fcb068ca22e430f",
     "bin/standalone-injector.js": "a312b217bc2d5a2bedd3a86c676ef1240587ff62a71ac7b7e47f68a5b9ecfcb5",
     "bin/update-electron.js": "4cd554038729b968aafee5101dd819b0174ad52de5bab2a6eb27220871a9e407",
     "bin/update-self.js": "aea804f70616ab8fae963f64a217c8c7f3d95741ca1d1037db1c4cb778006c65",
@@ -144,7 +144,6 @@
     "node_modules/tera-toolbox-mui/language/zh.js": "ac46e7e6a64d8168d713069cb6115ae8421bf1bcec7fd341adfb1116efd5202d",
     "node_modules/tera-vec3/index.js": "2cf01937c9ada564e6c69e60ee38ddb995441ae485e4d7cf91cde931b1bda317",
     "node_modules/tera-vec3/package.json": "daefc22e604a6941b4cb3cf27b0006828cf09f6d18306dc18f72782b67753bcd",
-    "node_modules/tera-vec3/README.md": "447bcb10c3d3055fbf76efeb2b31fd4d86b4dc887747d53149ea5a3652c02a87",
-    "_copy-to-tera-binaries/ReleaseRevision.txt": "fa098f174eee3489c2f8ba51d5470b237e3d881eceebff6480834e54ba950ff8"
+    "node_modules/tera-vec3/README.md": "447bcb10c3d3055fbf76efeb2b31fd4d86b4dc887747d53149ea5a3652c02a87"
   }
 }

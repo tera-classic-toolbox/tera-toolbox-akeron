@@ -143,11 +143,16 @@ class TeraProxy {
                 case 'info': {
                     const JustStarted = data.just_started;
 
-                    if (data.error) {
+                    if (data.error && !data.error.includes('ReleaseRevision.txt')) {
                         console.error(mui.get('proxy/client-interface-connection-error', { error: data.error }));
                         if (JustStarted)
                             client.resume();
                     } else {
+                        if (data.error) {
+                            data.majorPatchVersion = 29;
+                            data.minorPatchVersion = 4;
+                        }
+
                         client.info = data;
                         client.info.language = client.info.language.toLowerCase();
                         client.info.publisher = PublisherFromLanguage(data.language).toLowerCase();
