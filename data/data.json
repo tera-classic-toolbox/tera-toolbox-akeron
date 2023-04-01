@@ -1728,7 +1728,7 @@
         "C_UPDATE_MY_DESCRIPTION.1.def": "b2Zmc2V0IHRleHQKc3RyaW5nIHRleHQK",
         "C_USER_AIM.1.def": "YW5nbGUgeWF3CmFuZ2xlIHBpdGNoCmFuZ2xlIHRvWWF3CmFuZ2xlIHRvUGl0Y2gKaW50MzIgdW5rCmludDMyIHVuazIK",
         "C_USE_COUPON.2.def": "dWludDY0IGlk",
-        "C_USE_ITEM.3.def": "IyBtYWpvclBhdGNoVmVyc2lvbiA9PSAyNwoKdWludDY0IGdhbWVJZAppbnQzMiAgaWQKdWludDY0IGRiaWQKdWludDY0IHRhcmdldAp2ZWMzICAgZGVzdAp2ZWMzICAgbG9jCmFuZ2xlICB3CnVpbnQzMiB1bmsxCnVpbnQzMiB1bmsyCnVpbnQzMiB1bmszCmJvb2wgICB1bms0ICAjIHRydWU/",
+        "C_USE_ITEM.3.def": "dWludDY0IGdhbWVJZAppbnQzMiAgaWQKdWludDY0IGRiaWQKdWludDY0IHRhcmdldAppbnQzMiAgYW1vdW50CnZlYzMgICBkZXN0CnZlYzMgICBsb2MKYW5nbGUgIHcKdWludDMyIHVuazEKdWludDMyIHVuazIKdWludDMyIHVuazMKYm9vbCAgIHVuazQgICMgdHJ1ZT8=",
         "C_USE_RIGHT_ITEM.1.def": "dWludDMyIGlkCmludDMyICBpdGVt",
         "C_VEHICLEEX_LOCATION.1.def": "aW50MzIgdHlwZQpmbG9hdCB4MQpmbG9hdCB5MQpmbG9hdCB6MQppbnQxNiB3CmZsb2F0IHgyCmZsb2F0IHkyCmZsb2F0IHoyCmludDE2IHVuawppbnQzMiB0aW1l",
         "C_VIEW_BATTLE_FIELD_RESULT.1.def": "c3RyaW5nIG5hbWUK",
