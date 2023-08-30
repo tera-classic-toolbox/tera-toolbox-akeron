@@ -149,7 +149,7 @@ class TeraProxy {
                             client.resume();
                     } else {
                         if (data.error) {
-                            data.majorPatchVersion = 29;
+                            data.majorPatchVersion = 31;
                             data.minorPatchVersion = 4;
                         }
 
