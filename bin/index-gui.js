@@ -2,7 +2,7 @@
 'use strict';
 require('module').wrapper[0] += `'use strict';`;
 
-const SupportURL = 'https://github.com/tera-classic-toolbox/tera-toolbox-akeron/issues';
+const SupportURL = 'https://discord.gg/CZMYNhXwwS';
 
 const { app } = require('electron');
 const path = require('path');
