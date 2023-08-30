@@ -10,5 +10,5 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-classic-toolbox/command/master/", "https://git.teramods.ml/tera-classic-toolbox/command/raw/master/"]
+    "servers": ["https://raw.githubusercontent.com/tera-classic-toolbox/command/master/", "https://git.teragame.su/tera-classic-toolbox/command/raw/master/"]
 }

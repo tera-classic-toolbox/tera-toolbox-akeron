@@ -3,5 +3,5 @@
     "author": "Caali",
     "description": "Tracks the game's current state and provides a high-level API for developers to base their mods on.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/tera-classic-toolbox/tera-game-state/master/", "https://git.teramods.ml/tera-classic-toolbox/tera-game-state/raw/master/"]
+    "servers": ["https://raw.githubusercontent.com/tera-classic-toolbox/tera-game-state/master/", "https://git.teragame.su/tera-classic-toolbox/tera-game-state/raw/master/"]
 }
