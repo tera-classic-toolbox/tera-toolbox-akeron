@@ -8,7 +8,7 @@ const EventEmitter = require('events');
 // Constants
 const AutoUpdateServers = [
     'https://raw.githubusercontent.com/tera-classic-toolbox/tera-toolbox-akeron/',
-    'https://git.teramods.ml/tera-classic-toolbox/tera-toolbox/raw/'
+    'https://git.teragame.su/tera-classic-toolbox/tera-toolbox-akeron/raw/'
 ];
 
 // Implementation
