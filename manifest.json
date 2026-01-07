@@ -1,7 +1,7 @@
 {
   "files": {
     "package.json": "2ba763b107cbae008305f261e1ec1aa6de5568551e8bc978f64d166300d41063",
-    "README.md": "5b3688d3d3fe9f19d7fff7ba912795ee2999102859df9d26e0fe791fe2141b8c",
+    "README.md": "2a8a6059a232de125785d8f0d920bd85d0b1bceb8f4d6c47890f77c42fc35f72",
     "TeraToolbox.exe": "01a98bb95954fb7581514468a95ce3c3bd08f3b06f182a567d44b738d1067307",
     "TeraToolboxCLI.exe": "af4dd88ce3913bb595dda072282cac98e65075d576c8e68f3a42270c56ef74eb",
     "TeraToolboxCLI_NoAdmin.exe": "e4e9306f858b1afb4a3a21dacdcb38dc0f33f8ae6dccaaf106f3860fcaca0ac7",
@@ -47,7 +47,7 @@
     "bin/gui/js/main.js": "30320aa60bdbbe91d5ed2a5f67431e9f54ae99857ce91cf849bdd1055d926dec",
     "bin/gui/js/snowflakes.js": "d9440f3b5b94cadfbb096ecdb1fa96dc0ebde113fca533581c71846ee899ed76",
     "bin/gui/js/splash.js": "ca944b498623059e84c2d436096710e756029796028e114c03327f65195e3c8a",
-    "data/data.json": "9ec80025e106fe8ad5970298d131b35e05efec837b0f1d894ee84aed3e2a9b58",
+    "data/data.json": "0f0c724196c5200845c84b56306de5de20150d31aec85b6574f03be3906005ec",
     "data/definitions/README.md": "3bea1b2efa503a07a01cdcd63945b61e59a0426a2790b0a32605e8362630400a",
     "data/opcodes/README.md": "ab823a0a954e36e8a0788cccca229eb3fa205b81450bb4896712650acd0a8378",
     "doc/main.md": "13e2f68fc8f62119c17157cf7ecd5ffbf51c5d27585aab8de9810bde0cbeb1e1",
